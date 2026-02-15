@@ -11,6 +11,8 @@ A Project-Based Learning (PBL-II) (IVth SEM) frontend dashboard for scanning IoT
 - Export report (JSON / CSV)
 - GitHub Pages hosting ready
 
+https://kavins-glitch.github.io/iot-cyber-hygiene-ui-pbl-project/
+
 ## Live Demo
 Enable GitHub Pages:
 Settings → Pages → Deploy from branch → main → /root
