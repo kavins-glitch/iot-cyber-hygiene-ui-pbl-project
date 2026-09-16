@@ -1,6 +1,6 @@
 # IoT Cyber-Hygiene Assistant (Frontend)
 
-A Project-Based Learning (PBL-II) (Vth SEM) frontend dashboard for scanning IoT devices (demo simulation), assigning a Cyber-Hygiene Risk Score (0–100), generating insights, and exporting reports.
+A Project-Based Learning (PBL-III) (Vth SEM) frontend dashboard for scanning IoT devices (demo simulation), assigning a Cyber-Hygiene Risk Score (0–100), generating insights, and exporting reports.
 
 ## Features
 - Simulated IoT device scan
